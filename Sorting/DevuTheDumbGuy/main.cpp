@@ -17,14 +17,14 @@ int main() {
 
     sort(chapterCount.begin(), chapterCount.end());
 
-    int result = 0;
+    long long result = 0;
     int readTime = initialTime;
 
     for (int i = 0; i < subjectCount; i++) {
         if (i != 0 && readTime > 1) {
             readTime--;
         }
-        result += readTime * chapterCount[i];
+        result += 1ll * readTime * chapterCount[i]; //Cast to long for
     }
 
     cout << result;
