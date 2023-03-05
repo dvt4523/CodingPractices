@@ -1,3 +1,0 @@
-E:/Cpp/Books/cmake-build-debug/CMakeFiles/Books.dir
-E:/Cpp/Books/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Cpp/Books/cmake-build-debug/CMakeFiles/rebuild_cache.dir
