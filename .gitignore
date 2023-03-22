@@ -1,4 +1,4 @@
 /GeorgeAndRound/.clang-format
 cmake-build-debug/
-*/.clang-format
+*.clang-format
 .idea/
